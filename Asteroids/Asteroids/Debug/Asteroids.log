@@ -1,2 +1,15 @@
 ﻿  Source.cpp
-  Asteroids.vcxproj -> C:\dev\C++ Asteroids\Asteroids\Debug\Asteroids.exe
+C:\dev\SFML\SFML\Asteroids\Asteroids\Source.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\dev\SFML\SFML\Asteroids\Asteroids\Source.cpp(31,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\dev\SFML\SFML\Asteroids\Asteroids\Source.cpp(31,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\dev\SFML\SFML\Asteroids\Asteroids\Source.cpp(32,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\dev\SFML\SFML\Asteroids\Asteroids\Source.cpp(32,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Asteroids.vcxproj -> C:\dev\SFML\SFML\Asteroids\Debug\Asteroids.exe
